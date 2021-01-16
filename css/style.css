@@ -56,9 +56,23 @@ div {
   color: #ffffff;
 }
 
-.cv.main {
-}
-
 .Perfil-ppal {
-  padding: 5%;
+  padding: 2%;
+}
+.cv-text-paragraph {
+  /*text-align: center; */
+  padding: 1%;
+}
+.cv-h3-experience {
+  /*text-align: center; */
+  padding: 0% 0% 0% 5%;
+}
+.cv-footer {
+  text-align: center;
+  border-style: solid;
+  border-color: black;
+  border-width: 5px;
+  padding: 5px;
+  margin: 40px;
+
 }
